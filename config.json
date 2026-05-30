@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingdpdate",
+        "uuid": 2011135,
+        "checksum": "rgqkee"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
